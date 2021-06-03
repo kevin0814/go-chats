@@ -10,10 +10,9 @@
 
 #### 使用说明一
 
-1. 把项目下载下来 git clone https://github.com/qinjintian/go-chats.git
-
+1. 把项目下载下来 git clone https://github.com:kevin0814/go-chats.git
 1. 进入到go-chats目录
 
 1. 构建项目 go run 
 
-1. localhost:8080
+1. localhost:8081
